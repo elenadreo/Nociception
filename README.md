@@ -5,7 +5,14 @@ This repository contains all the Bonsai and Python scriots that Elisa Clemente i
 
 The experiments consists in zebrafish embedded in agarose and stimulated with an infra-red laser. 
 
-Python analysis:
+# Bonsai Scripts
+Name: ...
+Aim: Script used to collect zebrafish nociception data. 
+What does it do: the Bonsai script does the following
+What are the files generated:
+
+
+# Python Analysis
 
 Script 1 : 
 Aim:
